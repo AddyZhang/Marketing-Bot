@@ -1,6 +1,6 @@
 # Marketing-Bot
 
-Web Scapy + NLP + Google Sheets + AWS EC2
+Web Scrapy + NLP + Google Sheets + AWS EC2
 ([Tutorial to use AWS EC2](https://medium.com/automation-generation/step-by-step-guide-to-run-a-simple-trading-algorithm-in-the-cloud-using-python-alpaca-and-aws-34c899b678b0))
 
 **To Use This Repo**
