@@ -9,5 +9,5 @@ Web Scrapy + NLP + Google Sheets + AWS EC2
 **To Use This Repo**
 1. [Marketing_Bot_1](https://github.com/AddyZhang/Marketing-Bot/tree/master/Marketing_Bot_1): Automatically extract key words from Reddit hot posts and upload to Google Sheets
 2. [Marketing_Bot_2](https://github.com/AddyZhang/Marketing-Bot/tree/master/Marketing_Bot_2): Automatically upload date, title and url to Google Sheets
-3. [Marketing Bot 3](https://github.com/AddyZhang/Marketing-Bot/tree/master/Marketing_Bot_3): Automatically upload key words and popular posts to AWS DynamoDB (NoSQL Database)
+3. [Marketing_Bot_3](https://github.com/AddyZhang/Marketing-Bot/tree/master/Marketing_Bot_3): Automatically upload key words and popular posts to AWS DynamoDB (NoSQL Database)
 
